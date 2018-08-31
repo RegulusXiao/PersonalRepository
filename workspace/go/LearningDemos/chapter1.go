@@ -14,5 +14,5 @@ func main()  {
 		fmt.Println(index, argv)
 	}
 
-	
+	fmt.Println("test")
 }
